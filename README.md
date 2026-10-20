@@ -148,4 +148,4 @@ MIT, see [LICENSE](LICENSE).
 
 ---
 
-Part of [Landull](https://github.com/Landull)'s forensics toolkit.
+Part of [Landull](https://github.com/Landull)'s forensickit.
